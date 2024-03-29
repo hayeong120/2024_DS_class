@@ -18,5 +18,14 @@
     <ClCompile Include="factorial.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="euclid.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="magicCard.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="hanoiTower.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

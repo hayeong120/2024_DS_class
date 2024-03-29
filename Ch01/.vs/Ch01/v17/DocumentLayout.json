@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\2024_DS_class\\Ch01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8134C2BD-44DE-4FD1-9678-42FF03036F3B}|Ch01.vcxproj|C:\\2024_DS_class\\Ch01\\hanoiTower.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8134C2BD-44DE-4FD1-9678-42FF03036F3B}|Ch01.vcxproj|solutionrelative:hanoiTower.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8134C2BD-44DE-4FD1-9678-42FF03036F3B}|Ch01.vcxproj|C:\\2024_DS_class\\Ch01\\magicCard.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8134C2BD-44DE-4FD1-9678-42FF03036F3B}|Ch01.vcxproj|solutionrelative:magicCard.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8134C2BD-44DE-4FD1-9678-42FF03036F3B}|Ch01.vcxproj|C:\\2024_DS_class\\Ch01\\factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8134C2BD-44DE-4FD1-9678-42FF03036F3B}|Ch01.vcxproj|solutionrelative:factorial.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8134C2BD-44DE-4FD1-9678-42FF03036F3B}|Ch01.vcxproj|C:\\2024_DS_class\\Ch01\\euclid.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8134C2BD-44DE-4FD1-9678-42FF03036F3B}|Ch01.vcxproj|solutionrelative:euclid.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "factorial.c",
               "DocumentMoniker": "C:\\2024_DS_class\\Ch01\\factorial.c",
               "RelativeDocumentMoniker": "factorial.c",
               "ToolTip": "C:\\2024_DS_class\\Ch01\\factorial.c",
               "RelativeToolTip": "factorial.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-20T00:44:56.16Z",
+              "WhenOpened": "2024-03-27T01:10:54.911Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hanoiTower.c",
+              "DocumentMoniker": "C:\\2024_DS_class\\Ch01\\hanoiTower.c",
+              "RelativeDocumentMoniker": "hanoiTower.c",
+              "ToolTip": "C:\\2024_DS_class\\Ch01\\hanoiTower.c",
+              "RelativeToolTip": "hanoiTower.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-27T01:10:28.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "magicCard.c",
+              "DocumentMoniker": "C:\\2024_DS_class\\Ch01\\magicCard.c",
+              "RelativeDocumentMoniker": "magicCard.c",
+              "ToolTip": "C:\\2024_DS_class\\Ch01\\magicCard.c",
+              "RelativeToolTip": "magicCard.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-25T05:35:31.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "euclid.c",
+              "DocumentMoniker": "C:\\2024_DS_class\\Ch01\\euclid.c",
+              "RelativeDocumentMoniker": "euclid.c",
+              "ToolTip": "C:\\2024_DS_class\\Ch01\\euclid.c",
+              "RelativeToolTip": "euclid.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-25T04:26:53.547Z"
             }
           ]
         }
