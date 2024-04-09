@@ -13,7 +13,7 @@ void HanoiTower(int n, char a, char b, char c) {	// a : 출발지 변수, b : 경유지 
 int main(void) {
 	int n = 4;
 
-	HanoiTower(n, 'A', 'B', 'C');		// 원판 갯수, 출발지, 경유지 도착지
+	HanoiTower(n, 'A', 'B', 'C');		// 원판 갯수, 출발지, 경유지, 도착지
 
 	return 0;
 }
