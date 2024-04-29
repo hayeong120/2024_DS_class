@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\2024_DS_class\\Ch02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ED664D60-1F2D-424A-90B2-9EC2C6D3FA63}|Ch02.vcxproj|C:\\2024_DS_class\\Ch02\\linkedList2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED664D60-1F2D-424A-90B2-9EC2C6D3FA63}|Ch02.vcxproj|solutionrelative:linkedList2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ED664D60-1F2D-424A-90B2-9EC2C6D3FA63}|Ch02.vcxproj|C:\\2024_DS_class\\Ch02\\linkedList1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ED664D60-1F2D-424A-90B2-9EC2C6D3FA63}|Ch02.vcxproj|solutionrelative:linkedList1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "linkedList2.c",
+              "DocumentMoniker": "C:\\2024_DS_class\\Ch02\\linkedList2.c",
+              "RelativeDocumentMoniker": "linkedList2.c",
+              "ToolTip": "C:\\2024_DS_class\\Ch02\\linkedList2.c",
+              "RelativeToolTip": "linkedList2.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAGwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-29T04:32:20.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "linkedList1.c",
               "DocumentMoniker": "C:\\2024_DS_class\\Ch02\\linkedList1.c",
               "RelativeDocumentMoniker": "linkedList1.c",
               "ToolTip": "C:\\2024_DS_class\\Ch02\\linkedList1.c",
               "RelativeToolTip": "linkedList1.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-04-24T00:49:40.084Z",
               "EditorCaption": ""
