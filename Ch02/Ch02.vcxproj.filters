@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="linkedList1.c">
+    <ClCompile Include="stackLinkedList.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="linkedList2.c">
+    <ClCompile Include="mazeSearch.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
