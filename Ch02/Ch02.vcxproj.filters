@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stackLinkedList.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="mazeSearch.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="mazeSearchPushPopPrint.c">
+    <ClCompile Include="QueueArray2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
